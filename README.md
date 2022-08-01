@@ -8,6 +8,6 @@ The codes for this project are in the github repository of the same name.
 
 - [Titls Tips rep](https://github.com/Marcelo0479/titles-tips)
 
-I also have some knowledge with power bi. The repository with some exemplos is bellow.
+I also have some knowledge with power bi. The repository with some exemples is bellow.
 
 - [Power Bi](https://github.com/Marcelo0479/Alura_challenge_bi)
