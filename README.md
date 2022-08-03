@@ -20,6 +20,6 @@ I also have some knowledge with power bi. The repository with some exemples is b
 
 ![image](https://user-images.githubusercontent.com/77294637/158210901-793b5710-20a5-4fe2-9d3a-def88b37ab2b.png)
 
-![image](https://user-images.githubusercontent.com/77294637/159042141-690726fd-bb2c-4788-98db-4bee0437e7d3.png)
+![image](https://user-images.githubusercontent.com/77294637/158241861-f22c296e-a8a6-4622-bdc5-0b0c002ee4ed.png)
 
-![image](https://user-images.githubusercontent.com/77294637/159492236-56326f38-fec5-4216-9e9e-eae9aa381b09.png)
+![image](https://user-images.githubusercontent.com/77294637/158215950-e5871c9f-285c-415c-9ec5-393520e5389b.png)
